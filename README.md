@@ -7,5 +7,5 @@ Documents:
 2. The definition of the Design Document (DD).
 
 Members:
-Eugenio Cortesi;
-Chiara Criscuolo
+- Eugenio Cortesi
+- Chiara Criscuolo
